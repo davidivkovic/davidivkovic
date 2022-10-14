@@ -27,4 +27,4 @@ Really enyoing C#.
 ### ✏️About me 
 - 📖 I'm a 4th year student pursuing a Bachelor's degree in Software Engineering.
 - 📫 Reach me at ivkovic.sw61.2019@uns.ac.rs
-- 📰 I need my daily dose of [news.ycombinator.com](news.ycombinator.com)
+- 📰 I need my daily dose of [news.ycombinator.com](https://news.ycombinator.com)
