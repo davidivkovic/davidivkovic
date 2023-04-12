@@ -13,13 +13,14 @@ Really enyoing C#.
 - 🤔 I am also interested in working on cloud-native microservice oriented solutions such as .NET Native AOT and Quarkus.
 
 ### 📦Check out my projects
-- [Instagram Clone](https://github.com/davidivkovic/web21) built with Jersey, Vue and Tailwind
+- [Uber Rides](https://github.com/davidivkovic/uber-rides) built with Spring, Angular and Tailwind
+- [Instagram](https://github.com/davidivkovic/web21) built with Jersey, Vue and Tailwind
 - [Custom built Babel Transpiler](https://github.com/davidivkovic/babel-vue-ftn) used to develop the Instagram Clone
 - [Hot Reload VSCode Starter](https://github.com/davidivkovic/ftn-web-vscode-starter) for the FTN course Web Programming
-- [Booking App](https://github.com/davidivkovic/isa22) built with .NET 6 and Vue, deployed to Google Kubernetes Engine using Github Actions
-- [Library App](https://github.com/davidivkovic/SIMS) built with .NET 6, Blazor and Electron
+- [Booking App](https://github.com/davidivkovic/isa22) built with .NET 6, Vue and Tailwind, deployed to Google Kubernetes Engine using Github Actions
+- [Library App](https://github.com/davidivkovic/SIMS) built with .NET 6, Blazor, Electron and Tailwind
 - Built using WPF: 
-  - [CoinMarketCap Clone](https://github.com/davidivkovic/coinmarketcap) including a custom, high-performance chart
+  - [CoinMarketCap](https://github.com/davidivkovic/coinmarketcap) including a custom, high-performance chart
   - [Next.js Demo](https://github.com/davidivkovic/nextjs-wpf) including simple declarative bindings
   - [Hospital Calendar](https://github.com/davidivkovic/usi-2020)
   - [Railway App](https://github.com/davidivkovic/HCI_P2)
