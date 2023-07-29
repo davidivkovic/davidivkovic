@@ -7,7 +7,7 @@ React is slow. VDOM and Components are pure overhead. Respect your customers. Sh
 Really enyoing C#.
 
 
-- 🔧 Currently working on a serverless Google Maps popularity crawler/aggregator using a custom proxy pool. Going public soon™️
+- 🔧 Currently working on a serverless Google Maps popularity crawler using a custom proxy pool. Going public soon™️
 - 🔭 Continuously studying System Design, Microservices and efficient Event Sourcing and CQRS approaches.
 - ⚛️ Lately I've also been looking at fine-grained Javascript reactivity and frontend performance optimization, such as Svelte, SolidJS, Astro and Qwik, inspired by [@ryansolid](https://github.com/ryansolid).
 - ⛅ I am also interested in working on cloud-native microservice oriented solutions such as .NET Native AOT and Quarkus.
