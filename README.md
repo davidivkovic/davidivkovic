@@ -4,7 +4,7 @@ My name is David and this is the place where I keep all my projects.
 
 Let's talk about Kafka, Kubernetes, Cassandra, Cloud patterns, Javascript and any other cool stuff. </br>
 React is slow. VDOM and Components are pure overhead. Respect your customers. Ship less JS. </br>
-Registered C# shill.
+C# >>>
 
 
 - 🔧 Currently working on a serverless Google Maps popularity crawler using a custom proxy pool. Going public soon™️
