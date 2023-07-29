@@ -13,6 +13,7 @@ Really enyoing C#.
 - 🤔 I am also interested in working on cloud-native microservice oriented solutions such as .NET Native AOT and Quarkus.
 
 ### 📦Check out my projects
+- [Smart Home](https://github.com/davidivkovic/smart-home) built with Quarkus, MongoDB, SvelteKit and Tailwind
 - [Uber Rides](https://github.com/davidivkovic/uber-rides) built with Spring, Angular and Tailwind
 - [Instagram](https://github.com/davidivkovic/web21) built with Jersey, Vue and Tailwind
 - [Custom built Babel Transpiler](https://github.com/davidivkovic/babel-vue-ftn) used to develop the Instagram Clone
