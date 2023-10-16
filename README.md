@@ -16,6 +16,7 @@ C# >>>
 - [Smart Home](https://github.com/davidivkovic/smart-home) - Built using Quarkus, MongoDB, SvelteKit and Tailwind
 - [Uber Rides](https://github.com/davidivkovic/uber-rides) - Spring, Angular and Tailwind
 - [Instagram](https://github.com/davidivkovic/web21) - Java Jersey, Vue and Tailwind
+- [dom-reactivity](https://github.com/davidivkovic/dom-reactivity) - A high performance VDOM-less UI framework
 - [Custom built Babel Transpiler](https://github.com/davidivkovic/babel-vue-ftn) used to develop the Instagram app
 - [Booking App](https://github.com/davidivkovic/isa22) - .NET 6, Vue and Tailwind, deployed to Google Kubernetes Engine using Github Actions
 - [Library App](https://github.com/davidivkovic/SIMS) - .NET 6, Blazor, Electron and Tailwind
