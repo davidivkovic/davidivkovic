@@ -27,5 +27,5 @@ C# >>>
 - [Railway App](https://github.com/davidivkovic/HCI_P2) - WPF and Material Design
   
 ### ✏️About me 
-- 📖 Bachelor's degree in Software Engineering and IT.
+- 📖 BSc in Software Engineering and IT.
 - 📰 I need my daily dose of [news.ycombinator.com](https://news.ycombinator.com)
