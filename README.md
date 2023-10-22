@@ -2,10 +2,10 @@
 
 My name is David and this is the place where I keep all my projects.
 
-Let's talk about Kafka, Kubernetes, Cassandra, Cloud patterns, Javascript and any other cool stuff. </br>
+> Let's talk about Kafka, Kubernetes, Cassandra, Cloud patterns, Javascript and any other cool stuff. </br>
 React is slow. VDOM and Components are pure overhead. Respect your customers. Ship less JS. </br>
-C# >>>
 
+<span align="left"><img src="https://komarev.com/ghpvc/?username=davidivkovic" alt="davidivkovic" /></span>
 
 - 🔧 Currently working on a serverless Google Maps popularity crawler using a custom proxy pool. Going public soon™️
 - 🔭 Continuously studying System Design, Microservices and efficient Event Sourcing and CQRS approaches.
