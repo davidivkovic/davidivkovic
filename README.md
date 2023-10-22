@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is David and this is the place where I keep all my projects.
 
@@ -12,7 +12,7 @@ C# >>>
 - ⚛️ Lately I've also been looking at fine-grained Javascript reactivity and frontend performance optimization, such as Svelte, SolidJS, Astro and Qwik, inspired by [@ryansolid](https://github.com/ryansolid).
 - ⛅ I am also interested in working on cloud-native microservice oriented solutions such as .NET Native AOT and Quarkus.
 
-### 📦Check out my projects
+## 📦Check out my projects
 - [Smart Home](https://github.com/davidivkovic/smart-home) - Built using Quarkus, MongoDB, SvelteKit and Tailwind
 - [Uber Rides](https://github.com/davidivkovic/uber-rides) - Spring, Angular and Tailwind
 - [Instagram](https://github.com/davidivkovic/web21) - Java Jersey, Vue and Tailwind
@@ -26,6 +26,6 @@ C# >>>
 - [Hospital Calendar](https://github.com/davidivkovic/usi-2020) - WPF and Bing Maps
 - [Railway App](https://github.com/davidivkovic/HCI_P2) - WPF and Material Design
   
-### ✏️About me 
+## ✏️About me 
 - 📖 BSc in Software Engineering and IT.
 - 📰 I need my daily dose of [news.ycombinator.com](https://news.ycombinator.com)
