@@ -23,8 +23,8 @@ React is slow. VDOM and Components are pure overhead. Respect your customers. Sh
 - [CoinMarketCap](https://github.com/davidivkovic/coinmarketcap) - WPF, including a custom, high-performance chart
 - [Next.js Demo](https://github.com/davidivkovic/nextjs-wpf) - WPF, showcasing a beautiful UI and simple declarative bindings
 - [Hot Reload VSCode Starter](https://github.com/davidivkovic/ftn-web-vscode-starter) for the university course Web Programming
-- [Hospital Calendar](https://github.com/davidivkovic/usi-2020) - WPF and Bing Maps
-- [Railway App](https://github.com/davidivkovic/HCI_P2) - WPF and Material Design
+- [Hospital Calendar](https://github.com/davidivkovic/usi-2020) -  WPF and Material Design 
+- [Railway App](https://github.com/davidivkovic/HCI_P2) - WPF and Bing Maps
   
 ## ✏️About me 
 - 📖 BSc in Software Engineering and IT.
