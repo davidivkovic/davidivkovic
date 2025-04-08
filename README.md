@@ -26,5 +26,5 @@ React is slow. VDOM and Components are pure overhead. Respect your customers. Sh
 - [Railway App](https://github.com/davidivkovic/HCI_P2) - WPF and Bing Maps
   
 ## ✏️About me 
-- 📖 MSc in Software Engineering and IT.
+- 📖 BSc in Software Engineering and IT.
 - 📰 I need my daily dose of [news.ycombinator.com](https://news.ycombinator.com)
